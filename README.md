@@ -1,2 +1,2 @@
 # WorldHorizon
-A Courier Service WEBPAGE designed to meet the needs of a courier services company.
+A Courier Service Webpage designed to meet the needs of a courier services company.
